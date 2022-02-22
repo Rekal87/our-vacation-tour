@@ -1,2 +1,1 @@
-## React Projects Starter APP
-# our-vacation-tour
+## Made by Nnamdi Echem
